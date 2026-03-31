@@ -1,25 +1,35 @@
-<h2 align="left">Hi 👋! My name is Arpit Patni and I'm a Frontend Developer & CSE Student from India 🇮🇳</h2>
+<h2 align="left">
+Hi 👋! My name is Arpit Patni and I'm a Frontend Developer & CSE Student from India 🇮🇳
+</h2>
 
-###
+<!-- Profile Views -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arpitpaatni2007-jpg&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<!-- GitHub Stats -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpitpaatni2007-jpg&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitpaatni2007-jpg&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
+<!-- Coding Animation -->
 
-<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="200" />
+</div>
 
-###
+---
 
 <h3 align="left">🚀 About Me</h3>
 
-- 🎓 B.Tech CSE (AI-ML) student at K.R Mangalam University  
-- 💻 Passionate about Frontend Development & UI Design  
-- ⚡ Building real-world projects using HTML, CSS, JavaScript  
-- 🧠 Currently learning React.js & API Integration  
-- 💼 Open to Internships  
+* 🎓 B.Tech CSE (AI-ML) student at K.R Mangalam University
+* 💻 Passionate about Frontend Development & UI Design
+* ⚡ Building real-world projects using HTML, CSS, JavaScript
+* 🧠 Currently learning React.js & API Integration
+* 💼 Open to Internships
 
 ---
 
@@ -57,20 +67,14 @@
 
 <h3 align="left">📌 Featured Projects</h3>
 
-- 🔹 Smart Event Manager App  
-- 🔹 Weather Dashboard (API-based)  
-- 🔹 Alumni Connect Hub (Team Project)  
-- 🔹 Athlete Hub (Team Project)  
-- 🔹 I-Dragon Game  
+* 🔹 Smart Event Manager App
+* 🔹 Weather Dashboard (API-based)
+* 🔹 Alumni Connect Hub (Team Project)
+* 🔹 Athlete Hub (Team Project)
+* 🔹 I-Dragon Game
 
 ---
 
 <h3 align="left">📈 Activity</h3>
 
 <img src="https://streak-stats.demolab.com?user=arpitpaatni2007-jpg&theme=dracula" />
-
----
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arpitpaatni2007-jpg/arpitpaatni2007-jpg/output/snake.svg" alt="Snake animation" />
