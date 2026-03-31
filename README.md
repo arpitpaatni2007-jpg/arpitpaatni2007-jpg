@@ -1,47 +1,76 @@
-## Hi there 👋
-h1 align="center">Hi 👋, I'm ARPIT PATNI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">Hi 👋! My name is Arpit Patni and I'm a Frontend Developer & CSE Student from India 🇮🇳</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitpaatni2007-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="arpitpaatni2007-jpg" /> </p>
+###
 
-- 🔭 I’m currently working on [Alumini Student connection Portal](https://alumni-connect-portal-minor-project.vercel.app/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitpaatni2007-jpg&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitpaatni2007-jpg&layout=compact&theme=dracula" height="150" />
+</div>
 
-- 🌱 I’m currently learning **React,Tailwind**
+###
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+<img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
-- 🤝 I’m looking for help with **Web Development**
+###
 
-- 👨‍💻 All of my projects are available at [Arpit_Patni_Resume.pdf](Arpit_Patni_Resume.pdf)
+<h3 align="left">🚀 About Me</h3>
 
-- 💬 Ask me about **HTML,CSS,JS**
+- 🎓 B.Tech CSE (AI-ML) student at K.R Mangalam University  
+- 💻 Passionate about Frontend Development & UI Design  
+- ⚡ Building real-world projects using HTML, CSS, JavaScript  
+- 🧠 Currently learning React.js & API Integration  
+- 💼 Open to Internships  
 
-- 📫 How to reach me **arpitpaatni2007@gmail.com**
+---
 
-- 📄 Know about my experiences [Arpit_Patni_Resume.pdf](Arpit_Patni_Resume.pdf)
+<h3 align="left">🛠 Tech Stack</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arpit-patni-4251282a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arpit-patni-4251282a4/" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitpaatni2007-jpg&show_icons=true&locale=en&layout=compact" alt="arpitpaatni2007-jpg" /></p>
+<h3 align="left">🌐 Connect with Me</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitpaatni2007-jpg&show_icons=true&locale=en" alt="arpitpaatni2007-jpg" /></p>
-<!--
-**arpitpaatni2007-jpg/arpitpaatni2007-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href="mailto:arpitpaatni2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/arpit-patni-4251282a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/arpitpaatni2007-jpg">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">📌 Featured Projects</h3>
+
+- 🔹 Smart Event Manager App  
+- 🔹 Weather Dashboard (API-based)  
+- 🔹 Alumni Connect Hub (Team Project)  
+- 🔹 Athlete Hub (Team Project)  
+- 🔹 I-Dragon Game  
+
+---
+
+<h3 align="left">📈 Activity</h3>
+
+<img src="https://streak-stats.demolab.com?user=arpitpaatni2007-jpg&theme=dracula" />
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/arpitpaatni2007-jpg/arpitpaatni2007-jpg/output/snake.svg" alt="Snake animation" />
