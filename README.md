@@ -78,3 +78,10 @@ Hi 👋! My name is Arpit Patni and I'm a Frontend Developer & CSE Student from 
 <h3 align="left">📈 Activity</h3>
 
 <img src="https://streak-stats.demolab.com?user=arpitpaatni2007-jpg&theme=dracula" />
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
